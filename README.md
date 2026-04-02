@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Sonali Mohapatra<br><br>🌐 B.Sc Computer Science student at BJB Autonomous College | Web Developer<br>🎓 Oracle Cloud Infrastructure Generative AI Certified Professional<br>🌟 Microsoft Learn Student Ambassador<br>
+Hi there 👋 I'm Sonali Mohapatra<br><br>🌐 B.Sc Computer Science student at BJB Autonomous College | Web Developer<br>🎓 Oracle Cloud Infrastructure Generative AI Certified Professional<br>🌟 Microsoft Learn Student Ambassador<br> 🥉 Odisha Skills bronze medalist in Cloud Computing
 
 
 ## 🌐 Socials:
