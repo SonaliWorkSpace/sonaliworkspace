@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Sonali Mohapatra<br><br>🌐 B.Sc Computer Science student at BJB Autonomous College | Web Developer<br>🎓 Oracle Cloud Infrastructure Generative AI Certified Professional<br>🌟 Microsoft Learn Student Ambassador<br>💡 Building Cadeistiq - a gifting startup under budget
+Hi there 👋 I'm Sonali Mohapatra<br><br>🌐 B.Sc Computer Science student at BJB Autonomous College | Web Developer<br>🎓 Oracle Cloud Infrastructure Generative AI Certified Professional<br>🌟 Microsoft Learn Student Ambassador<br>
 
 
 ## 🌐 Socials:
